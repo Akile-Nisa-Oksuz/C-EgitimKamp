@@ -244,40 +244,40 @@ namespace _04_MakingDecision
 
             #region Hesap Makinesi
 
-            int num1, num2, result;
-            char symbol;
+            //int num1, num2, result;
+            //char symbol;
 
-            Console.Write("1.sayı: ");
-            num1 = int.Parse(Console.ReadLine());
+            //Console.Write("1.sayı: ");
+            //num1 = int.Parse(Console.ReadLine());
 
 
-            Console.Write("2.sayı: ");
-            num2 = int.Parse(Console.ReadLine());
+            //Console.Write("2.sayı: ");
+            //num2 = int.Parse(Console.ReadLine());
 
-            Console.Write("İşelem:  ");
-            symbol= char.Parse(Console.ReadLine());
+            //Console.Write("İşelem:  ");
+            //symbol= char.Parse(Console.ReadLine());
 
-            switch (symbol)
-            {
-                case '+':
-                    result = num1 + num2;
-                    Console.WriteLine("toplam: " + result);
-                    break;
-                case '-':
-                    result = num1 - num2;
-                    Console.WriteLine("fark: " + result);
-                    break;
-                case '*':
-                    result = num1 * num2;
-                    Console.WriteLine("çarpım: " + result);
-                    break;
-                case '/':
-                    result = num1 / num2;
-                    Console.WriteLine("bölüm: " + result);
-                    break;
+            //switch (symbol)
+            //{
+            //    case '+':
+            //        result = num1 + num2;
+            //        Console.WriteLine("toplam: " + result);
+            //        break;
+            //    case '-':
+            //        result = num1 - num2;
+            //        Console.WriteLine("fark: " + result);
+            //        break;
+            //    case '*':
+            //        result = num1 * num2;
+            //        Console.WriteLine("çarpım: " + result);
+            //        break;
+            //    case '/':
+            //        result = num1 / num2;
+            //        Console.WriteLine("bölüm: " + result);
+            //        break;
 
-                    default: Console.WriteLine("geçerli bir işlem giriniz"); break;
-            }
+            //        default: Console.WriteLine("geçerli bir işlem giriniz"); break;
+            //}
 
 
             #endregion
