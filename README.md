@@ -8,7 +8,6 @@ Bu proje, C# programlama dilini öğrenmek ve uygulamak amacıyla oluşturulmuş
 - [Kurulum](#kurulum)  
 - [Kullanım](#kullanım)  
 - [Katkıda Bulunma](#katkıda-bulunma)  
-- [Lisans](#lisans)  
 
 ## Proje Hakkında  
 
@@ -27,3 +26,6 @@ Projenin çalışabilmesi için aşağıdaki adımları takip edebilirsiniz:
    ```bash  
    git clone https://github.com/Akile-Nisa-Oksuz/C-EgitimKamp.git  
    cd C#-EgitimKamp
+
+## Katkıda Bulunan
+- Murat Yücedağ https://www.youtube.com/@MurattYucedag
