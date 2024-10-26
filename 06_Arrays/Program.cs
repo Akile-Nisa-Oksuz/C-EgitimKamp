@@ -126,30 +126,30 @@ namespace _06_Arrays
             //}
             //Console.WriteLine(sum);
 
-            int[] num = { 654, 3254, 487, 65, 94, 31, 58, 27 };
-            Array.Sort(num);
+            //int[] num = { 654, 3254, 487, 65, 94, 31, 58, 27 };
+            //Array.Sort(num);
 
-            Console.WriteLine("çift sayılar");
-            Console.WriteLine();
-            for (int i = 0; i < num.Length; i++)
-            {
-                if (num[i] % 2 == 0)
-                {
-                    Console.WriteLine(num[i]);
-                }
+            //Console.WriteLine("çift sayılar");
+            //Console.WriteLine();
+            //for (int i = 0; i < num.Length; i++)
+            //{
+            //    if (num[i] % 2 == 0)
+            //    {
+            //        Console.WriteLine(num[i]);
+            //    }
                
-            }
+            //}
             
-            Console.WriteLine();
-            Console.WriteLine("Tek Sayılar");
-            Console.WriteLine();
-            for (int i = 0; i < num.Length; i++)
-            {
-                if (num[i] % 2 != 0)
-                {
-                    Console.WriteLine(num[i]);
-                }
-            }
+            //Console.WriteLine();
+            //Console.WriteLine("Tek Sayılar");
+            //Console.WriteLine();
+            //for (int i = 0; i < num.Length; i++)
+            //{
+            //    if (num[i] % 2 != 0)
+            //    {
+            //        Console.WriteLine(num[i]);
+            //    }
+            //}
             #endregion
 
             Console.Read();
