@@ -1,6 +1,6 @@
 # C# Eğitim Kampı Projesi  
 
-Bu proje, C# programlama dilini öğrenmek ve uygulamak amacıyla oluşturulmuştur. Proje, C# dilinin temel kavramlarını ve mühendislik pratiklerini geliştirmeye yöneliktir.  
+**Bu proje, C# programlama dilini öğrenmek ve uygulamak amacıyla oluşturulmuştur. Proje, C# dilinin temel kavramlarını ve mühendislik pratiklerini geliştirmeye yöneliktir.**
 
 ## İçindekiler  
 
@@ -11,16 +11,37 @@ Bu proje, C# programlama dilini öğrenmek ve uygulamak amacıyla oluşturulmuş
 
 ## Proje Hakkında  
 
-Bu repo, C# Eğitim Kampı kapsamında uygulanan çeşitli projeleri ve örnekleri içermektedir. Amaç, katılımcıların C dilindeki becerilerini geliştirmelerini sağlamak ve pratik yapmalarına imkan tanımaktır.  
+# ❗❗ Proje 1 --> MainSubjects
+ ~**Console.Write tek satırda ilerler, Console.Writeline alt satıra geçirir. Konsolda yazı yazdırma komutlarıdır.**
+ 
+# ❗❗ Proje 2 --> Variables
+~**Int,string,double,char değişkenlerdir. Klavye ile veri girişi console.read(); ile yapılır.**
+
+# ❗❗ Proje 3 --> MakingDecision
+~**if-else Karar Yapısıdır. Switch Case, Break örnek uygulama yapıldı**
+
+# ❗❗ Proje 4 --> Loops
+~**For- While döngülerdir. Örnekler yapıldı**
+
+# ❗❗ Proje 5 --> Loops Whit Stars
+~**Döngü yapısıyla '*' ile geometrik şekiller yapıldı**
+
+# ❗❗ Proje 6 --> Arrays
+~**Temel Dizi Örnekleri arrays incelendi. Array metotlarına bakıldı. Pratikler yapıldı.**
+
+# ❗❗ Proje 7 --> ForEach
+~**ForEach döngüsü incelendi. Karar yapıları ve döngüler kullanılarak pratikler geliştirildi.**
+
+# ❗❗ Proje 8 --> Methods
+~**Metot çeşitleri incelendi. Örnek uygulama yapıldı**
 
 ## Kurulum  
 
 Projenin çalışabilmesi için aşağıdaki adımları takip edebilirsiniz:  
 
 1. **Gereksinimler:**  
-   - C# derleyici (örn. GCC)  
-   - [Gerekli kütüphaneler / araçlar] (örn. make)  
-
+   - C# derleyici (visual studio)
+  
 2. **Repo'yu klonlayın:**  
 
    ```bash  
