@@ -35,12 +35,16 @@
 # ❗❗ Proje 8 --> Methods
 ~**Metot çeşitleri incelendi. Örnek uygulama yapıldı**
 
+# ❗❗ Proje 9 --> İlkDataBase
+~**SQL veri tabanı kuruldu. İlk Database oluşturuldu. Databasein içerisinde  tabel yapısı incelendi. C# kod yapısına bağlandı**
+
 ## Kurulum  
 
 Projenin çalışabilmesi için aşağıdaki adımları takip edebilirsiniz:  
 
 1. **Gereksinimler:**  
    - C# derleyici (visual studio)
+   - SQL Veri Tabanı
   
 2. **Repo'yu klonlayın:**  
 
