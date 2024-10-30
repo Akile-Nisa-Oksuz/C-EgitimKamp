@@ -40,6 +40,9 @@
 # ❗Proje 10--> DataBase CRUD
 ~**Curd'a giriş yapıldı. Create-Read-Update-Delete örnekler yapıldı. Başarılı bir şekilde çalıştırıldı**
 
+# ❗Proje 11--> N Katmanlı Mimari,Entity Layer
+## Bu repodan itibaren devam ediyor ---> https://github.com/Akile-Nisa-Oksuz/C-EgitimKampi301
+
 ## Kurulum  
 
 Projenin çalışabilmesi için aşağıdaki adımları takip edebilirsiniz:  
