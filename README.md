@@ -5,38 +5,40 @@
 ## İçindekiler  
 
 - [Proje Hakkında](#proje-hakkında)  
-- [Kurulum](#kurulum)  
-- [Kullanım](#kullanım)  
+- [Kurulum](#kurulum) 
 - [Katkıda Bulunma](#katkıda-bulunma)  
 
 ## Proje Hakkında  
 
-# ❗❗ Proje 1 --> MainSubjects
+# ❗Proje 1 --> MainSubjects
  ~**Console.Write tek satırda ilerler, Console.Writeline alt satıra geçirir. Konsolda yazı yazdırma komutlarıdır.**
  
-# ❗❗ Proje 2 --> Variables
+# ❗Proje 2 --> Variables
 ~**Int,string,double,char değişkenlerdir. Klavye ile veri girişi console.read(); ile yapılır.**
 
-# ❗❗ Proje 3 --> MakingDecision
+# ❗Proje 3 --> MakingDecision
 ~**if-else Karar Yapısıdır. Switch Case, Break örnek uygulama yapıldı**
 
-# ❗❗ Proje 4 --> Loops
+# ❗Proje 4 --> Loops
 ~**For- While döngülerdir. Örnekler yapıldı**
 
-# ❗❗ Proje 5 --> Loops Whit Stars
+# ❗Proje 5 --> Loops Whit Stars
 ~**Döngü yapısıyla '*' ile geometrik şekiller yapıldı**
 
-# ❗❗ Proje 6 --> Arrays
+# ❗Proje 6 --> Arrays
 ~**Temel Dizi Örnekleri arrays incelendi. Array metotlarına bakıldı. Pratikler yapıldı.**
 
-# ❗❗ Proje 7 --> ForEach
+# ❗Proje 7 --> ForEach
 ~**ForEach döngüsü incelendi. Karar yapıları ve döngüler kullanılarak pratikler geliştirildi.**
 
-# ❗❗ Proje 8 --> Methods
+# ❗Proje 8 --> Methods
 ~**Metot çeşitleri incelendi. Örnek uygulama yapıldı**
 
-# ❗❗ Proje 9 --> İlkDataBase
+# ❗Proje 9 --> İlkDataBase
 ~**SQL veri tabanı kuruldu. İlk Database oluşturuldu. Databasein içerisinde  tabel yapısı incelendi. C# kod yapısına bağlandı**
+
+# ❗Proje 10--> DataBase CRUD
+~**Curd'a giriş yapıldı. Create-Read-Update-Delete örnekler yapıldı. Başarılı bir şekilde çalıştırıldı**
 
 ## Kurulum  
 
